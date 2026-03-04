@@ -190,9 +190,7 @@ Output:
 
 # Possible Improvements
 
-* parse raw equation strings
 * handle nested parentheses
-* build a command-line tool
 * add reaction verification
 * improve brute-force search efficiency
 
